@@ -1,4 +1,5 @@
 Smart Calculator Desktop App
-Usin Python, Tkinter, Css
+Developing
+Using Python, Tkinter, Css
 
 by Anas 
